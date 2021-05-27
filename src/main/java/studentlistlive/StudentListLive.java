@@ -1,7 +1,7 @@
 /*
  * To change this license header, choose License Headers in Project Properties.
  * This class creates a list of students
- * and open the template in the editor.
+ * May 2021
  */
 package studentlistlive;
 
